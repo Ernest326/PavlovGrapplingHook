@@ -1,0 +1,1519 @@
+﻿Log file open, 02/02/21 13:47:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pavlov
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.286649
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamAudio
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogPluginManager: Mounting plugin CustomMapTools
+LogPluginManager: Mounting plugin JsonUtils
+LogStreaming: Display: Took  0.107s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Ernest326 -epicuserid=4b897ee6fe53453d8e65312b20998d2c -epiclocale=en
+LogInit: Base Directory: F:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.CustomDepth:0]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:2]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:2]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.Streaming.MaxTempMemoryAllowed:512]]
+[2021.02.02-13.47.15:711][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.ParallelTranslucency:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.Streaming.UseNewMetrics:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.TonemapperFilm:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:1]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:1]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-13.47.15:712][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-13.47.15:712][  0]LogConfig: Setting CVar [[net.MaxRepArraySize:2048]]
+[2021.02.02-13.47.15:712][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-13.47.15:716][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2021.02.02-13.47.15:717][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.02-13.47.15:717][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.02-13.47.15:718][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.02-13.47.15:718][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.02-13.47.15:731][  0]LogHAL: Display: Platform has ~ 64 GB [68640907264 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.02-13.47.15:731][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2021.02.02-13.47.15:731][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.02-13.47.15:731][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:731][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.02-13.47.15:731][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.02-13.47.15:731][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2021.02.02-13.47.15:732][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.02-13.47.15:732][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.02-13.47.15:733][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.02-13.47.15:733][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-13.47.15:733][  0]LogInit: Computer: DESKTOP-IF8K8UI
+[2021.02.02-13.47.15:733][  0]LogInit: User: ErnestWarzuchowski
+[2021.02.02-13.47.15:733][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.02.02-13.47.15:733][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.02-13.47.15:734][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2021.02.02-13.47.15:734][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.02-13.47.15:734][  0]LogMemory: Process Physical Memory: 110.79 MB used, 110.80 MB peak
+[2021.02.02-13.47.15:734][  0]LogMemory: Process Virtual Memory: 103.33 MB used, 103.33 MB peak
+[2021.02.02-13.47.15:734][  0]LogMemory: Physical Memory: 15820.82 MB used,  49640.25 MB free, 65461.07 MB total
+[2021.02.02-13.47.15:734][  0]LogMemory: Virtual Memory: 4670.03 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2021.02.02-13.47.15:772][  0]LogInit: Using OS detected language (en-US).
+[2021.02.02-13.47.15:772][  0]LogInit: Using OS detected locale (ga-IE).
+[2021.02.02-13.47.15:773][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.02.02-13.47.16:123][  0]LogStreaming: Display: Took  0.351s to InitEngineTextLocalization.
+[2021.02.02-13.47.16:123][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.02-13.47.16:173][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.02-13.47.16:173][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.02-13.47.16:372][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.02-13.47.16:452][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.02.02-13.47.16:452][  0]LogD3D11RHI:       8088/0/32730 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.02.02-13.47.16:454][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.02-13.47.16:454][  0]LogD3D11RHI:       0/0/32730 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.02-13.47.16:454][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.02-13.47.16:462][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.02-13.47.16:462][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.02-13.47.16:462][  0]LogWindows: EnumDisplayDevices:
+[2021.02.02-13.47.16:462][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.02.02-13.47.16:462][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2021.02.02-13.47.16:463][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.02.02-13.47.16:463][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.02.02-13.47.16:463][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.02.02-13.47.16:463][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.02.02-13.47.16:463][  0]LogD3D11RHI:   Driver Version: 461.09 (internal:27.21.14.6109, unified:461.09)
+[2021.02.02-13.47.16:463][  0]LogD3D11RHI:      Driver Date: 12-31-2020
+[2021.02.02-13.47.16:463][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.02.02-13.47.16:526][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.02-13.47.16:554][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.02-13.47.16:953][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.02.02-13.47.16:971][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.02.02-13.47.16:988][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.02.02-13.47.17:006][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.02.02-13.47.17:023][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.02.02-13.47.17:037][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.02.02-13.47.17:051][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.02.02-13.47.17:067][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.02.02-13.47.17:074][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-13.47.17:153][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.02.02-13.47.17:216][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.02.02-13.47.17:216][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.02.02-13.47.17:247][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.02.02-13.47.17:247][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.02.02-13.47.17:260][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.02.02-13.47.17:275][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.02.02-13.47.17:290][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.02.02-13.47.17:305][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.02.02-13.47.17:359][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.02.02-13.47.17:359][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.02.02-13.47.17:360][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.02-13.47.17:414][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (E:/Unreal Projects/GrapplingHook/Intermediate/Shaders/WorkingDirectory/21660/).
+[2021.02.02-13.47.17:414][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ernest Warzuchowski/AppData/Local/Temp/UnrealShaderWorkingDir/32FE663742B4D391E999989EF4E733F3/'.
+[2021.02.02-13.47.17:415][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.02.02-13.47.17:415][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.02-13.47.17:415][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.02-13.47.17:984][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.02-13.47.18:034][  0]LogDerivedDataCache: Loaded boot cache 0.05s 89MB C:/Users/Ernest Warzuchowski/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2021.02.02-13.47.18:035][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ernest Warzuchowski/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2021.02.02-13.47.18:035][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Unreal Projects/GrapplingHook/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.02-13.47.18:035][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.02-13.47.18:035][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Unreal Projects/GrapplingHook/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.02-13.47.18:035][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.02-13.47.18:050][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.02-13.47.18:050][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.02-13.47.18:050][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.02-13.47.18:062][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ernest Warzuchowski/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.02-13.47.18:062][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.02-13.47.18:062][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.02-13.47.18:090][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.02.02-13.47.18:092][  0]LogSlate: Using FreeType 2.6.0
+[2021.02.02-13.47.18:092][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.02-13.47.18:172][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2021.02.02-13.47.18:474][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.02-13.47.18:613][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.02.02-13.47.18:616][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.02.02-13.47.18:616][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.02-13.47.18:616][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.02-13.47.18:616][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.02.02-13.47.18:628][  0]LogNetVersion: Pavlov 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1000105296)
+[2021.02.02-13.47.19:250][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 2 prioritized culture(s) in 0.149368 seconds
+[2021.02.02-13.47.19:257][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2021.02.02-13.47.19:257][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2021.02.02-13.47.19:257][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.02-13.47.19:865][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2021.02.02-13.47.19:865][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-13.47.19:865][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-13.47.19:913][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2021.02.02-13.47.19:914][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-13.47.19:914][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-13.47.19:917][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2021.02.02-13.47.19:917][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-13.47.19:917][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-13.47.19:920][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2021.02.02-13.47.19:921][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-13.47.19:921][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-13.47.19:924][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2021.02.02-13.47.19:925][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-13.47.19:925][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-13.47.19:928][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2021.02.02-13.47.19:928][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-13.47.19:928][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-13.47.19:982][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2021.02.02-13.47.19:982][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-13.47.19:982][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-13.47.19:985][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2021.02.02-13.47.19:985][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-13.47.19:985][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-13.47.19:988][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2021.02.02-13.47.19:989][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-13.47.19:989][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-13.47.20:146][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.02-13.47.20:159][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.02-13.47.20:788][  0]LogSteamAudio: FSteamAudioModule Startup
+[2021.02.02-13.47.20:788][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll
+[2021.02.02-13.47.20:792][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll.
+[2021.02.02-13.47.20:792][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll
+[2021.02.02-13.47.20:793][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll.
+[2021.02.02-13.47.20:793][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll
+[2021.02.02-13.47.20:794][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll.
+[2021.02.02-13.47.20:837][  0]SourceControl: Source control is disabled
+[2021.02.02-13.47.20:837][  0]SourceControl: Source control is disabled
+[2021.02.02-13.47.20:838][  0]SourceControl: Source control is disabled
+[2021.02.02-13.47.20:839][  0]SourceControl: Source control is disabled
+[2021.02.02-13.47.21:002][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.02-13.47.21:136][  0]LogOcInput: OculusInput pre-init called
+[2021.02.02-13.47.21:150][  0]LogPython: Python Scripts search path: E:/Unreal Projects/GrapplingHook/Content/Scripts
+[2021.02.02-13.47.21:150][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2021.02.02-13.47.21:150][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2021.02.02-13.47.21:379][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2021.02.02-13.47.21:379][  0]LogPython: 
+
+[2021.02.02-13.47.21:379][  0]LogPython: F:\Program Files\Epic Games\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2021.02.02-13.47.21:379][  0]LogPython: 
+
+[2021.02.02-13.47.21:433][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2021.02.02-13.47.21:433][  0]LogPython: 
+
+[2021.02.02-13.47.21:433][  0]LogPython: ue_site Python module successfully imported
+[2021.02.02-13.47.21:589][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2021.02.02-13.47.21:589][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2021.02.02-13.47.21:589][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2021.02.02-13.47.21:589][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2021.02.02-13.47.21:589][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2021.02.02-13.47.21:589][  0]LogClass: Display: 5 Uninitialized script stuct members found
+[2021.02.02-13.47.21:590][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2021.02.02-13.47.21:590][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2021.02.02-13.47.21:590][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2021.02.02-13.47.21:590][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2021.02.02-13.47.21:590][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2021.02.02-13.47.21:592][  0]LogEngine: Initializing Engine...
+[2021.02.02-13.47.21:593][  0]LogHMD: Oculus plugin initialized. Version: 4.21.2-4753647+++UE4+Release-4.21, OVRPlugin: 1.28.0
+[2021.02.02-13.47.21:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.02.02-13.47.21:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.02.02-13.47.21:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.02.02-13.47.21:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.02.02-13.47.21:904][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.02-13.47.21:913][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.02-13.47.21:974][  0]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-13.47.21:998][  0]LogInit: FAudioDevice initialized.
+[2021.02.02-13.47.21:998][  0]LogNetVersion: Set ProjectVersion to 1.1.2. Version Checksum will be recalculated on next use.
+[2021.02.02-13.47.22:087][  0]LogDerivedDataCache: Saved boot cache 0.09s 89MB C:/Users/Ernest Warzuchowski/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2021.02.02-13.47.22:098][  0]LogInit: Texture streaming: Enabled
+[2021.02.02-13.47.22:112][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.02-13.47.22:131][  0]LogInit: Transaction tracking system initialized
+[2021.02.02-13.47.22:145][  0]BlueprintLog: New page: Editor Load
+[2021.02.02-13.47.22:198][  0]LocalizationService: Localization service is disabled
+[2021.02.02-13.47.22:714][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.02.02-13.47.22:714][  0]LogCook: Display: Mobile HDR setting 0
+[2021.02.02-13.47.22:714][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.02.02-13.47.22:714][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.02.02-13.47.22:715][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.02.02-13.47.22:715][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.02.02-13.47.22:715][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.02.02-13.47.22:796][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/GrapplingHook/Content/' took 0.02s
+[2021.02.02-13.47.22:796][  0]CustomMapToolsLog: Initializing Pavlov's workshop editor plugin
+[2021.02.02-13.47.22:882][  0]CustomMapToolsLog: Visiting E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858
+[2021.02.02-13.47.22:882][  0]CustomMapToolsLog: Loaded UGC ID:2381960858
+[2021.02.02-13.47.22:882][  0]CustomMapToolsLog: Visiting E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858
+[2021.02.02-13.47.22:931][  0]SourceControl: Source control is disabled
+[2021.02.02-13.47.22:931][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.02-13.47.22:931][  0]LightingResults: New page: Lighting Build
+[2021.02.02-13.47.22:934][  0]MapCheck: New page: Map Check
+[2021.02.02-13.47.22:934][  0]LightingResults: New page: Lighting Build
+[2021.02.02-13.47.23:037][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.02.02-13.47.23:042][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.02-13.47.23:059][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.02-13.47.23:060][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2021.02.02-13.47.23:060][  0]LogFileHelpers: Loading map 'Template_Default' took 0.128
+[2021.02.02-13.47.24:292][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.02.02-13.47.24:352][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.47.24:363][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.47.24:372][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.47.24:382][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.47.24:388][  0]LogCollectionManager: Loaded 0 collections in 0.001294 seconds
+[2021.02.02-13.47.24:428][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/GrapplingHook/Saved/Collections/' took 0.01s
+[2021.02.02-13.47.24:428][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/GrapplingHook/Content/Developers/ErnestWarzuchowski/Collections/' took 0.01s
+[2021.02.02-13.47.24:428][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/GrapplingHook/Content/Collections/' took 0.01s
+[2021.02.02-13.47.24:428][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.02.02-13.47.24:441][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Pavlov
+[2021.02.02-13.47.24:441][  0]LogTemp: CWD: F:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2021.02.02-13.47.24:441][  0]LogTemp: Initial Dir: F:\Program Files\Epic Games\UE_4.21
+[2021.02.02-13.47.24:441][  0]LogTemp: Env CWD: F:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2021.02.02-13.47.24:441][  0]LogTemp: BranchPath = DESKTOP-IF8K8UI/F/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-IF8K8UI/F/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2021.02.02-13.47.24:441][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2723 classes and 646 folders.
+[2021.02.02-13.47.24:451][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.02.02-13.47.24:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:455][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:455][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:463][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Ernest Warzuchowski\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2021.02.02-13.47.24:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:469][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-13.47.24:493][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.02-13.47.24:502][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.02.02-13.47.24:566][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.02-13.47.24:572][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.02-13.47.24:577][  0]LogSlate: Took 0.000386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.02-13.47.24:667][  0]LogRenderer: Reallocating scene render targets to support 1212x508 Format 9 NumSamples 4 (Frame:1).
+[2021.02.02-13.47.24:770][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.02-13.47.24:770][  0]LogLoad: (Engine Initialization) Total time: 10.64 seconds
+[2021.02.02-13.47.24:770][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.02-13.47.24:782][  0]LogOcInput: OculusInput is initialized
+[2021.02.02-13.47.24:936][  0]LogContentStreaming: Texture pool size now 2500 MB
+[2021.02.02-13.47.24:940][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.02-13.47.25:002][  0]LogRenderer: Reallocating scene render targets to support 1212x516 Format 9 NumSamples 4 (Frame:2).
+[2021.02.02-13.47.25:002][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.02-13.47.25:075][  1]LogAssetRegistry: Asset discovery search completed in 6.9261 seconds
+[2021.02.02-13.47.25:077][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2021.02.02-13.47.25:077][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2021.02.02-13.47.25:123][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2021.02.02-13.47.43:807][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-13.51.31:561][530]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2381960858/GrapplingHook.GrapplingHook
+[2021.02.02-13.51.32:002][530]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2021.02.02-13.51.32:698][530]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.02-13.51.32:822][531]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.02-14.07.01:698][670]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'APavlov_CustomItem::GetOwningPawn' [The specified module could not be found.]
+[2021.02.02-14.07.41:435][158]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2021.02.02-14.07.41:435][158]Warning: self: Parse error while importing property values (PinName = self).
+[2021.02.02-14.07.41:435][158]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2021.02.02-14.07.41:435][158]Warning: A: Parse error while importing property values (PinName = A).
+[2021.02.02-14.07.41:435][158]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2021.02.02-14.07.41:435][158]Warning: B: Parse error while importing property values (PinName = B).
+[2021.02.02-14.07.41:435][158]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2021.02.02-14.07.41:435][158]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2021.02.02-14.07.41:436][158]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2021.02.02-14.07.41:436][158]Warning: self: Parse error while importing property values (PinName = self).
+[2021.02.02-14.07.41:436][158]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2021.02.02-14.07.41:436][158]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2021.02.02-14.07.41:436][158]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.02.02-14.07.41:602][158]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.166 s
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: === Handled ensure: ===
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: 
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: Ensure condition failed: ThisPin [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EdGraphUtilities.cpp] [Line: 141]
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: 
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: Stack: 
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd0f564900 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd0f54d4c0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd14d8e179 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd14d8df23 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd14d61168 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd15f1206f UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd15f54c8e UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd0e9c58f0 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd15ed694c UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd15f5697c UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd15f49a36 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd4162daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd41620de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd416301eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd4161ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffde8cd5c1d USER32.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffde8cd5612 USER32.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ffd41631746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ff74dfa5546 UE4Editor.exe!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ff74dfb596c UE4Editor.exe!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ff74dfb59ea UE4Editor.exe!UnknownFunction []
+[2021.02.02-14.07.41:602][158]LogOutputDevice: Error: [Callstack] 0x00007ff74dfc48da UE4Editor.exe!UnknownFunction []
+[2021.02.02-14.07.41:603][158]LogOutputDevice: Error: [Callstack] 0x00007ff74dfc659a UE4Editor.exe!UnknownFunction []
+[2021.02.02-14.07.41:603][158]LogOutputDevice: Error: [Callstack] 0x00007ffde8137c24 KERNEL32.DLL!UnknownFunction []
+[2021.02.02-14.07.41:603][158]LogOutputDevice: Error: [Callstack] 0x00007ffde906d4d1 ntdll.dll!UnknownFunction []
+[2021.02.02-14.07.41:603][158]LogOutputDevice: Error: 
+[2021.02.02-14.07.41:614][158]LogStats:                SubmitErrorReport -  0.000 s
+[2021.02.02-14.07.43:284][158]LogStats:                    SendNewReport -  1.671 s
+[2021.02.02-14.07.43:284][158]LogStats:             FDebug::EnsureFailed -  1.849 s
+[2021.02.02-14.08.01:125][756]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-14.08.01:144][756]LogBlueprint: Error: [Compiler GrapplingHook] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2021.02.02-14.08.01:296][756]LogBlueprint: Warning: [Compiler GrapplingHook] [1247.17] Compile of GrapplingHook failed. 1 Fatal Issue(s) 0 Warning(s) [in 171 ms] (/Game/CustomMaps/UGC2381960858/GrapplingHook.GrapplingHook)
+[2021.02.02-14.08.07:479][414]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-14.08.09:539][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaps/UGC2381960858/GrapplingHook" FILE="E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/GrapplingHook.uasset" SILENT=true
+[2021.02.02-14.08.09:587][613]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/GrapplingHook5070DF28403AF794DB283B90C0D84D44.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/GrapplingHook.uasset'
+[2021.02.02-14.08.11:795][818]LogSlate: Window 'GrapplingHook' being destroyed
+[2021.02.02-14.08.11:802][818]LogSlate: Window 'GrapplingHook' being destroyed
+[2021.02.02-14.08.24:171][276]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2381960858/Blueprints/Pavlov/Proxies/BP_PlayerProxyExample.BP_PlayerProxyExample
+[2021.02.02-14.09.01:833][137]BlueprintLog: New page: Compile BP_PlayerProxyExample
+[2021.02.02-14.09.08:837][843]BlueprintLog: New page: Compile BP_PlayerProxyExample
+[2021.02.02-14.09.15:274][485]LogSlate: Window 'BP_PlayerProxyExample*' being destroyed
+[2021.02.02-14.10.22:443][380]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.029
+[2021.02.02-14.10.22:445][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomMaps/UGC2381960858/Blueprints/Pavlov/Proxies/BP_PlayerProxyExample] ([1] browsable assets)...
+[2021.02.02-14.10.22:445][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomMaps/UGC2381960858/Blueprints/Pavlov/Proxies/BP_PlayerProxyExample]
+[2021.02.02-14.10.22:518][380]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/BP_PlayerProxyExample_Auto167CEF2BE409C5D2401B075ACA4239DA4.tmp' to 'E:/Unreal Projects/GrapplingHook/Saved/Autosaves/Game/CustomMaps/UGC2381960858/Blueprints/Pavlov/Proxies/BP_PlayerProxyExample_Auto1.uasset'
+[2021.02.02-14.10.22:520][380]LogFileHelpers: Auto-saving content packages took 0.076
+[2021.02.02-15.43.56:551][196]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2021.02.02-15.43.56:551][196]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2021.02.02-15.43.56:551][196]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body
+[2021.02.02-15.43.56:551][196]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2021.02.02-15.43.56:552][196]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2021.02.02-15.43.56:552][196]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo
+[2021.02.02-15.43.56:554][196]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2021.02.02-15.43.56:554][196]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2021.02.02-15.43.56:554][196]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2021.02.02-15.43.56:554][196]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2021.02.02-15.43.56:595][196]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2021.02.02-15.43.56:595][196]LoadErrors: Failed to load /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C Referenced by StaticMesh_GEN_VARIABLE
+[2021.02.02-15.43.56:595][196]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2021.02.02-15.43.56:595][196]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/S_FobInfo : Can't find file for asset. /Script/UmbraComputation
+[2021.02.02-15.43.56:595][196]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2021.02.02-15.43.56:595][196]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by StaticMesh_GEN_VARIABLE
+[2021.02.02-15.43.56:595][196]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2021.02.02-15.43.56:595][196]LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer StaticMeshComponent /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C:StaticMesh_GEN_VARIABLE because its class does not exist
+[2021.02.02-15.43.56:605][196]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2021.02.02-15.43.56:605][196]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2021.02.02-15.43.56:607][196]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2021.02.02-15.43.56:607][196]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2021.02.02-15.43.56:666][196]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2021.02.02-15.43.56:666][196]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2021.02.02-15.43.56:666][196]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/ModItem_FOB : Can't find file for asset. /Script/UmbraComputation
+[2021.02.02-15.43.56:668][196]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2021.02.02-15.43.56:668][196]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2021.02.02-15.43.56:820][196]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2021.02.02-15.43.56:820][196]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body.M_UE4Man_Body Referenced by SK_Mannequin
+[2021.02.02-15.43.56:820][196]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading NULL.
+[2021.02.02-15.43.56:820][196]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2021.02.02-15.43.56:820][196]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo Referenced by SK_Mannequin
+[2021.02.02-15.43.56:820][196]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading NULL.
+[2021.02.02-15.43.56:994][196]LogAIModule: Creating AISystem for world Map
+[2021.02.02-15.43.57:029][196]LogAssetEditorManager: Opening Asset editor for World /Game/CustomMaps/UGC2381960858/Map.Map
+[2021.02.02-15.43.58:326][196]LogSlate: Window 'Save Content' being destroyed
+[2021.02.02-15.43.58:396][196]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/BP_PlayerProxyExampleD4BEC6274F255C64ED255280F3500873.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Blueprints/Pavlov/Proxies/BP_PlayerProxyExample.uasset'
+[2021.02.02-15.43.58:399][196]Cmd: MAP LOAD FILE="E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.02-15.43.58:399][196]LightingResults: New page: Lighting Build
+[2021.02.02-15.43.58:400][196]LoadErrors: New page: Loading map: Map.umap
+[2021.02.02-15.43.58:400][196]MapCheck: New page: Map Check
+[2021.02.02-15.43.58:400][196]LightingResults: New page: Lighting Build
+[2021.02.02-15.43.58:548][196]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.02-15.43.58:593][196]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.02-15.43.58:594][196]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2021.02.02-15.43.58:594][196]LogFileHelpers: Loading map 'Map' took 0.195
+[2021.02.02-15.59.10:165][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-15.59.18:546][907]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2381960858/GrapplingHook.GrapplingHook
+[2021.02.02-15.59.25:432][680]LogRenderer: Reallocating scene render targets to support 1212x676 Format 9 NumSamples 4 (Frame:1).
+[2021.02.02-15.59.32:831][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-15.59.35:011][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-15.59.48:115][361]LogEditorTransaction: Undo Modify Component(s)
+[2021.02.02-16.00.02:912][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.01.12:640][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CustomMaps/UGC2381960858/Map' took 0.026
+[2021.02.02-16.01.12:642][ 49]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomMaps/UGC2381960858/GrapplingHook] ([1] browsable assets)...
+[2021.02.02-16.01.12:649][ 49]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomMaps/UGC2381960858/GrapplingHook.GrapplingHook]
+[2021.02.02-16.01.12:649][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomMaps/UGC2381960858/GrapplingHook]
+[2021.02.02-16.01.12:698][ 49]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/GrapplingHook_Auto284E0EFFF4E0AE3307E201D89C420950F.tmp' to 'E:/Unreal Projects/GrapplingHook/Saved/Autosaves/Game/CustomMaps/UGC2381960858/GrapplingHook_Auto2.uasset'
+[2021.02.02-16.01.12:699][ 49]LogFileHelpers: Auto-saving content packages took 0.057
+[2021.02.02-16.02.06:439][429]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.02.09:535][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.02.13:940][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.02-16.02.15:034][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.02-16.02.16:489][403]LogSlate: Window 'Save Content' being destroyed
+[2021.02.02-16.02.16:493][403]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2021.02.02-16.02.16:493][403]PIE: Warning: PIE failed because map save was canceled
+[2021.02.02-16.02.17:748][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.02-16.02.18:626][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.18:626][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.02.18:626][655]PIE: New page: SIE session: Map (2 Feabh 2021 16:02:18)
+[2021.02.02-16.02.18:678][655]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.02.18:707][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028222s)
+[2021.02.02-16.02.18:707][655]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.02.18:707][655]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2021.02.02-16.02.18:707][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.028964s)
+[2021.02.02-16.02.18:793][655]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.02.18:821][655]LogInit: FAudioDevice initialized.
+[2021.02.02-16.02.18:837][655]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.02-16.02.18:895][655]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.02.18:899][655]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.02.18
+[2021.02.02-16.02.18:899][655]LogWorld: Bringing up level for play took: 0.002871
+[2021.02.02-16.02.18:966][655]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.02.02-16.02.18:984][655]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map -0.238
+[2021.02.02-16.02.19:050][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.24:287][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.02.24:338][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.24:338][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.02.24:374][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.02.24:374][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.24:398][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.02.24:447][287]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.02.02-16.02.24:846][335]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.02.24:857][335]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.24:857][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.02.24:857][335]PIE: New page: SIE session: Map (2 Feabh 2021 16:02:24)
+[2021.02.02-16.02.24:857][335]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.02.24:888][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030353s)
+[2021.02.02-16.02.24:888][335]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.02.24:888][335]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2021.02.02-16.02.24:888][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.030950s)
+[2021.02.02-16.02.24:948][335]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.02.24:959][335]LogInit: FAudioDevice initialized.
+[2021.02.02-16.02.24:988][335]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.02.24:992][335]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.02.24
+[2021.02.02-16.02.24:992][335]LogWorld: Bringing up level for play took: 0.003399
+[2021.02.02-16.02.25:005][335]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map -0.217
+[2021.02.02-16.02.25:007][335]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.26:434][506]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.26:435][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.02.26:468][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.02.26:468][506]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.26:491][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.02.26:539][511]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.02.02-16.02.30:353][960]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.02.31:644][ 90]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.02.31:664][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.31:664][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.02.31:664][ 90]PIE: New page: SIE session: Map (2 Feabh 2021 16:02:31)
+[2021.02.02-16.02.31:664][ 90]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.02.31:692][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027629s)
+[2021.02.02-16.02.31:692][ 90]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.02.31:693][ 90]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2021.02.02-16.02.31:693][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.028249s)
+[2021.02.02-16.02.31:749][ 90]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.02.31:761][ 90]LogInit: FAudioDevice initialized.
+[2021.02.02-16.02.31:789][ 90]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.02.31:792][ 90]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.02.31
+[2021.02.02-16.02.31:793][ 90]LogWorld: Bringing up level for play took: 0.003647
+[2021.02.02-16.02.31:806][ 90]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map 0.584
+[2021.02.02-16.02.31:808][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.36:977][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.02.37:071][716]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.37:071][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.02.37:105][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.02.37:105][716]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.37:130][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.02.37:171][720]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.02.02-16.02.37:579][769]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.02.37:593][769]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.37:593][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.02.37:593][769]PIE: New page: SIE session: Map (2 Feabh 2021 16:02:37)
+[2021.02.02-16.02.37:593][769]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.02.37:620][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026589s)
+[2021.02.02-16.02.37:620][769]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.02.37:620][769]LogPlayLevel: PIE: World Init took: (0.000460s)
+[2021.02.02-16.02.37:620][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.027200s)
+[2021.02.02-16.02.37:679][769]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.02.37:690][769]LogInit: FAudioDevice initialized.
+[2021.02.02-16.02.37:718][769]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.02.37:722][769]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.02.37
+[2021.02.02-16.02.37:722][769]LogWorld: Bringing up level for play took: 0.003132
+[2021.02.02-16.02.37:735][769]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map 0.514
+[2021.02.02-16.02.37:737][769]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.38:382][846]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.38:383][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.02.38:419][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.02.38:419][846]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.02.38:444][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.02.38:486][850]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.02.02-16.02.49:815][196]LogEditorTransaction: Undo Modify Component(s)
+[2021.02.02-16.03.04:433][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.03.06:927][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.03.28:323][761]LogEditorTransaction: Undo Set Scale
+[2021.02.02-16.03.28:744][810]LogEditorTransaction: Undo Set Scale
+[2021.02.02-16.03.30:738][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.03.39:505][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.03.47:123][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.03.52:734][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.04.19:933][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.04.29:983][ 75]LogEditorTransaction: Undo Modify Component(s)
+[2021.02.02-16.04.32:311][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.04.41:073][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.04.51:658][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.05.08:532][641]LogEditorTransaction: Undo Modify Component(s)
+[2021.02.02-16.06.27:043][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.06.41:213][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.06.49:575][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.07.06:437][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.07.14:457][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.07.19:640][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.08.03:169][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.08.15:549][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.08.22:708][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.08.23:823][661]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.08.23:844][661]LogBlueprint: Error: [Compiler GrapplingHook] This blueprint (self) is not a CableComponent, therefore ' Target ' must have a connection.
+[2021.02.02-16.08.23:844][661]LogBlueprint: Error: [Compiler GrapplingHook] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.02.02-16.08.23:844][661]LogBlueprint: Error: [Compiler GrapplingHook] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.02.02-16.08.24:153][661]LogBlueprint: Warning: [Compiler GrapplingHook] [8470.03] Compile of GrapplingHook failed. 3 Fatal Issue(s) 0 Warning(s) [in 330 ms] (/Game/CustomMaps/UGC2381960858/GrapplingHook.GrapplingHook)
+[2021.02.02-16.08.48:679][189]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.09.09:431][914]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.09.10:613][  9]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.09.10:637][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.10:637][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.09.10:637][  9]PIE: New page: SIE session: Map (2 Feabh 2021 16:09:10)
+[2021.02.02-16.09.10:637][  9]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.09.10:666][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028777s)
+[2021.02.02-16.09.10:666][  9]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.09.10:667][  9]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2021.02.02-16.09.10:667][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.029468s)
+[2021.02.02-16.09.10:726][  9]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.09.10:739][  9]LogInit: FAudioDevice initialized.
+[2021.02.02-16.09.10:772][  9]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.09.10:775][  9]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.09.10
+[2021.02.02-16.09.10:775][  9]LogWorld: Bringing up level for play took: 0.002812
+[2021.02.02-16.09.10:788][  9]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map -0.433
+[2021.02.02-16.09.10:790][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.14:482][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.09.14:539][368]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.14:539][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.14:581][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.09.14:582][368]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.14:608][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.14:663][369]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.02.02-16.09.20:098][956]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.09.20:117][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.20:117][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.09.20:117][956]PIE: New page: SIE session: Map (2 Feabh 2021 16:09:20)
+[2021.02.02-16.09.20:117][956]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.09.20:164][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047458s)
+[2021.02.02-16.09.20:164][956]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.09.20:164][956]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2021.02.02-16.09.20:164][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.048294s)
+[2021.02.02-16.09.20:226][956]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.09.20:239][956]LogInit: FAudioDevice initialized.
+[2021.02.02-16.09.20:269][956]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.09.20:273][956]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.09.20
+[2021.02.02-16.09.20:274][956]LogWorld: Bringing up level for play took: 0.003302
+[2021.02.02-16.09.20:286][956]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map 1.064
+[2021.02.02-16.09.20:288][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.23:165][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.09.23:257][256]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.23:257][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.23:295][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.09.23:295][256]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.23:322][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.23:374][257]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.02.02-16.09.24:201][343]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.09.24:213][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.24:213][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.09.24:213][343]PIE: New page: SIE session: Map (2 Feabh 2021 16:09:24)
+[2021.02.02-16.09.24:213][343]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.09.24:241][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028088s)
+[2021.02.02-16.09.24:242][343]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.09.24:242][343]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2021.02.02-16.09.24:242][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.028710s)
+[2021.02.02-16.09.24:297][343]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.09.24:308][343]LogInit: FAudioDevice initialized.
+[2021.02.02-16.09.24:342][343]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.09.24:344][343]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.09.24
+[2021.02.02-16.09.24:345][343]LogWorld: Bringing up level for play took: 0.002841
+[2021.02.02-16.09.24:358][343]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map 1.136
+[2021.02.02-16.09.24:360][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.25:336][434]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.25:336][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.25:376][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.09.25:377][434]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.25:403][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.25:464][435]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.02.02-16.09.26:239][516]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.09.26:251][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.26:251][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.09.26:251][516]PIE: New page: SIE session: Map (2 Feabh 2021 16:09:26)
+[2021.02.02-16.09.26:251][516]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.09.26:279][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027402s)
+[2021.02.02-16.09.26:279][516]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.09.26:279][516]LogPlayLevel: PIE: World Init took: (0.000464s)
+[2021.02.02-16.09.26:280][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.028036s)
+[2021.02.02-16.09.26:338][516]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.09.26:348][516]LogInit: FAudioDevice initialized.
+[2021.02.02-16.09.26:380][516]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.09.26:383][516]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.09.26
+[2021.02.02-16.09.26:384][516]LogWorld: Bringing up level for play took: 0.002888
+[2021.02.02-16.09.26:397][516]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map -0.825
+[2021.02.02-16.09.26:399][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.27:180][599]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.27:180][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.27:219][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.09.27:219][599]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.27:243][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.27:296][600]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.02.02-16.09.28:259][707]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.09.28:273][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.28:273][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.09.28:273][707]PIE: New page: SIE session: Map (2 Feabh 2021 16:09:28)
+[2021.02.02-16.09.28:273][707]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.09.28:300][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026943s)
+[2021.02.02-16.09.28:300][707]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.09.28:301][707]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2021.02.02-16.09.28:301][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.027681s)
+[2021.02.02-16.09.28:357][707]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.09.28:368][707]LogInit: FAudioDevice initialized.
+[2021.02.02-16.09.28:397][707]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.09.28:401][707]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.09.28
+[2021.02.02-16.09.28:401][707]LogWorld: Bringing up level for play took: 0.003285
+[2021.02.02-16.09.28:414][707]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map -0.807
+[2021.02.02-16.09.28:416][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.29:914][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.09.30:004][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.30:004][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.30:045][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.09.30:045][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.30:068][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.30:121][867]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.02.02-16.09.32:546][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.09.32:671][143]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.09.32:684][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.32:684][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.09.32:685][143]PIE: New page: SIE session: Map (2 Feabh 2021 16:09:32)
+[2021.02.02-16.09.32:685][143]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.09.32:715][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030901s)
+[2021.02.02-16.09.32:716][143]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.09.32:716][143]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2021.02.02-16.09.32:716][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.031605s)
+[2021.02.02-16.09.32:774][143]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.09.32:785][143]LogInit: FAudioDevice initialized.
+[2021.02.02-16.09.32:815][143]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.09.32:818][143]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.09.32
+[2021.02.02-16.09.32:818][143]LogWorld: Bringing up level for play took: 0.002903
+[2021.02.02-16.09.32:831][143]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map -0.391
+[2021.02.02-16.09.32:833][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.37:814][662]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.37:814][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.37:855][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.09.37:855][662]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.37:881][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.37:936][663]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.02.02-16.09.40:542][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.09.43:603][266]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.09.44:776][363]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.09.44:799][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.44:799][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.09.44:799][363]PIE: New page: SIE session: Map (2 Feabh 2021 16:09:44)
+[2021.02.02-16.09.44:799][363]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.09.44:826][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027568s)
+[2021.02.02-16.09.44:826][363]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.09.44:826][363]LogPlayLevel: PIE: World Init took: (0.000458s)
+[2021.02.02-16.09.44:827][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.028185s)
+[2021.02.02-16.09.44:887][363]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.09.44:898][363]LogInit: FAudioDevice initialized.
+[2021.02.02-16.09.44:930][363]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.09.44:933][363]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.09.44
+[2021.02.02-16.09.44:934][363]LogWorld: Bringing up level for play took: 0.002797
+[2021.02.02-16.09.44:947][363]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map -0.275
+[2021.02.02-16.09.44:949][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.50:424][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.09.50:517][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.50:518][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.50:559][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.09.50:559][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.50:586][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.50:636][939]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.02.02-16.09.51:058][983]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.09.51:071][983]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.51:071][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.09.51:071][983]PIE: New page: SIE session: Map (2 Feabh 2021 16:09:51)
+[2021.02.02-16.09.51:071][983]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.09.51:101][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029130s)
+[2021.02.02-16.09.51:101][983]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.09.51:101][983]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2021.02.02-16.09.51:101][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.029790s)
+[2021.02.02-16.09.51:157][983]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.09.51:168][983]LogInit: FAudioDevice initialized.
+[2021.02.02-16.09.51:201][983]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.09.51:204][983]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.09.51
+[2021.02.02-16.09.51:204][983]LogWorld: Bringing up level for play took: 0.002965
+[2021.02.02-16.09.51:217][983]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map -0.005
+[2021.02.02-16.09.51:219][983]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.55:591][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.55:592][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.55:633][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.09.55:634][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.09.55:657][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.09.55:707][453]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.02.02-16.09.58:057][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.09.58:124][695]LogActorFactory: Actor Factory created Cube
+[2021.02.02-16.09.58:508][735]LogActorFactory: Actor Factory created Cube
+[2021.02.02-16.10.06:552][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.10.06:647][473]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.10.06:659][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.10.06:660][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.10.06:660][473]PIE: New page: SIE session: Map (2 Feabh 2021 16:10:06)
+[2021.02.02-16.10.06:660][473]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.10.06:687][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027379s)
+[2021.02.02-16.10.06:688][473]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.10.06:688][473]LogPlayLevel: PIE: World Init took: (0.000488s)
+[2021.02.02-16.10.06:688][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.028036s)
+[2021.02.02-16.10.06:745][473]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.10.06:756][473]LogInit: FAudioDevice initialized.
+[2021.02.02-16.10.06:787][473]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.10.06:791][473]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.10.06
+[2021.02.02-16.10.06:791][473]LogWorld: Bringing up level for play took: 0.004128
+[2021.02.02-16.10.06:804][473]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map -0.417
+[2021.02.02-16.10.06:819][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.10.08:773][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.10.08:843][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.10.08:843][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.10.08:887][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.10.08:888][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.10.08:913][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.10.08:971][669]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.02.02-16.10.09:235][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2021.02.02-16.10.11:462][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.10.27:081][207]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.10.28:242][279]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.10.28:266][279]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.10.28:266][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.10.28:267][279]PIE: New page: SIE session: Map (2 Feabh 2021 16:10:28)
+[2021.02.02-16.10.28:267][279]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.10.28:296][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029074s)
+[2021.02.02-16.10.28:296][279]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.10.28:296][279]LogPlayLevel: PIE: World Init took: (0.000456s)
+[2021.02.02-16.10.28:296][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.029684s)
+[2021.02.02-16.10.28:357][279]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.10.28:368][279]LogInit: FAudioDevice initialized.
+[2021.02.02-16.10.28:396][279]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.10.28:399][279]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.10.28
+[2021.02.02-16.10.28:400][279]LogWorld: Bringing up level for play took: 0.002986
+[2021.02.02-16.10.28:413][279]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map -0.809
+[2021.02.02-16.10.28:427][279]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.10.30:782][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.10.30:850][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.10.30:851][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.10.30:896][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.10.30:897][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.10.30:924][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.10.30:992][489]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.02.02-16.10.35:637][924]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.10.36:769][  8]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.10.36:794][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.10.36:795][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.10.36:795][  8]PIE: New page: SIE session: Map (2 Feabh 2021 16:10:36)
+[2021.02.02-16.10.36:795][  8]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.10.36:823][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028324s)
+[2021.02.02-16.10.36:824][  8]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.10.36:824][  8]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2021.02.02-16.10.36:824][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.029003s)
+[2021.02.02-16.10.36:886][  8]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.10.36:898][  8]LogInit: FAudioDevice initialized.
+[2021.02.02-16.10.36:927][  8]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.10.36:930][  8]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.10.36
+[2021.02.02-16.10.36:931][  8]LogWorld: Bringing up level for play took: 0.003711
+[2021.02.02-16.10.36:979][  8]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map -0.242
+[2021.02.02-16.10.36:981][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.10.40:557][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.10.40:628][348]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.10.40:628][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.10.40:671][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.10.40:672][348]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.10.40:698][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.10.40:759][349]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.02.02-16.10.49:092][239]LogEditorTransaction: Undo Move Node
+[2021.02.02-16.10.49:412][260]LogEditorTransaction: Undo Change Enum Pin Value
+[2021.02.02-16.10.50:329][343]LogEditorTransaction: Undo Move Nodes
+[2021.02.02-16.10.50:818][389]LogEditorTransaction: Undo Create Pin Link
+[2021.02.02-16.10.51:168][417]LogEditorTransaction: Undo Paste clipboard contents
+[2021.02.02-16.10.51:451][442]LogEditorTransaction: Undo Delete current selection
+[2021.02.02-16.10.54:341][739]LogEditorTransaction: Redo Delete current selection
+[2021.02.02-16.10.54:517][752]LogEditorTransaction: Redo Paste clipboard contents
+[2021.02.02-16.10.54:654][757]LogEditorTransaction: Redo Create Pin Link
+[2021.02.02-16.10.54:799][764]LogEditorTransaction: Redo Move Nodes
+[2021.02.02-16.10.54:948][774]LogEditorTransaction: Redo Change Enum Pin Value
+[2021.02.02-16.10.55:661][847]LogEditorTransaction: Redo Move Node
+[2021.02.02-16.11.09:892][356]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.11.11:584][508]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.11.11:607][508]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.11.11:607][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.11.11:607][508]PIE: New page: SIE session: Map (2 Feabh 2021 16:11:11)
+[2021.02.02-16.11.11:607][508]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.11.11:638][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031197s)
+[2021.02.02-16.11.11:639][508]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.11.11:639][508]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2021.02.02-16.11.11:639][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.031867s)
+[2021.02.02-16.11.11:701][508]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.11.11:717][508]LogInit: FAudioDevice initialized.
+[2021.02.02-16.11.11:749][508]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.11.11:752][508]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.11.11
+[2021.02.02-16.11.11:753][508]LogWorld: Bringing up level for play took: 0.003661
+[2021.02.02-16.11.11:766][508]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map 0.544
+[2021.02.02-16.11.11:769][508]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.11.12:803][614]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.11.12:803][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.11.12:845][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.11.12:845][614]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.11.12:874][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.11.12:935][615]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.02.02-16.11.40:713][690]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.11.41:657][767]LogTemp: Repeating last play command: Simulate
+[2021.02.02-16.11.41:679][767]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.11.41:679][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-16.11.41:679][767]PIE: New page: SIE session: Map (2 Feabh 2021 16:11:41)
+[2021.02.02-16.11.41:680][767]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map
+[2021.02.02-16.11.41:708][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027814s)
+[2021.02.02-16.11.41:708][767]LogAIModule: Creating AISystem for world Map
+[2021.02.02-16.11.41:708][767]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2021.02.02-16.11.41:708][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2381960858/Map.Map to /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map (0.028431s)
+[2021.02.02-16.11.41:767][767]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-16.11.41:777][767]LogInit: FAudioDevice initialized.
+[2021.02.02-16.11.41:807][767]LogLoad: Game class is 'GameModeBase'
+[2021.02.02-16.11.41:811][767]LogWorld: Bringing World /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.02.02-16.11.41
+[2021.02.02-16.11.41:811][767]LogWorld: Bringing up level for play took: 0.003010
+[2021.02.02-16.11.41:824][767]PIE: Play in editor start time for /Game/CustomMaps/UGC2381960858/UEDPIE_0_Map 0.603
+[2021.02.02-16.11.41:826][767]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.11.48:369][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.11.48:422][492]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.11.48:423][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.11.48:465][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-16.11.48:465][492]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/CustomMaps/UGC2381960858/Map.Map_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2381960858/Map.Map:PersistentLevel.Map'
+[2021.02.02-16.11.48:489][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-16.11.48:546][493]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.02.02-16.11.49:815][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2021.02.02-16.11.50:628][699]Cmd: DELETE
+[2021.02.02-16.11.50:628][699]Cmd: ACTOR DELETE
+[2021.02.02-16.11.50:643][699]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-16.11.50:665][699]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.02.02-16.11.52:802][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.12.06:099][375]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.12.22:654][177]LogSlate: Window 'GrapplingHook*' being destroyed
+[2021.02.02-16.12.26:128][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-16.12.28:924][531]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.13.25:306][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaps/UGC2381960858/Map" FILE="E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-16.13.25:810][236]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/Map429790E94A79CAF5C3D057AF26A872FF.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Map.umap'
+[2021.02.02-16.13.25:835][236]LogFileHelpers: Saving map 'Map' took 0.530
+[2021.02.02-16.13.25:844][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaps/UGC2381960858/GrapplingHook" FILE="E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/GrapplingHook.uasset" SILENT=true
+[2021.02.02-16.13.25:889][236]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/GrapplingHookEEFEFBB2416630F75D81F485B58F721C.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/GrapplingHook.uasset'
+[2021.02.02-16.14.05:682][888]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.14.35:119][269]LogSlate: Took 0.004780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.02.02-16.15.14:753][886]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-16.15.17:056][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaps/UGC2381960858/Map" FILE="E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-16.15.17:562][126]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/Map3409DC37435D3CDFBB77EDBED73C87A6.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Map.umap'
+[2021.02.02-16.15.17:585][126]LogFileHelpers: Saving map 'Map' took 0.529
+[2021.02.02-16.15.17:593][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaps/UGC2381960858/GrapplingHook" FILE="E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/GrapplingHook.uasset" SILENT=true
+[2021.02.02-16.15.17:636][126]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/GrapplingHook03E9CD4D4B8BC03704F8CEB13E66C07D.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/GrapplingHook.uasset'
+[2021.02.02-16.15.25:134][  7]CustomMapToolsLog: MapURL = /Game/CustomMaps/UGC2381960858/Map
+[2021.02.02-16.15.25:134][  7]CustomMapToolsLog: Cook command: "E:/Unreal Projects/GrapplingHook/Pavlov.uproject"  -run=cook -targetplatform=WindowsNoEditor+LinuxServer -UnVersioned -map=/Game/CustomMaps/UGC2381960858/Map
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist Blueprints/GrapplingHookAttach.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/BPFL_PavlovTemplate.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/BPI_MatchRounds.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/Pavlov_GameLogic_Example.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/Proxies/BP_HandProxyExample.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/Proxies/BP_PlayerProxyExample.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/Proxies/CMP_GlobalInfoExample.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/Proxies/CMP_PlayerInfoExample.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist CustomItemTableExample.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist definition.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist GrapplingHook.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist HighresScreenshot00000.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist Map.umap
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist Map_BuiltData.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Glowing_MultiColor.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Holographic.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Modern.uasset
+[2021.02.02-16.15.36:761][319]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Base/M_SuperGrid_SingleColor.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/Basic/BreakSet.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/Basic/MakeSet.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/Basic/Roughness.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/Texture/Dye_MultiColor.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/Texture/Dye_SingleColor.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/Texture/Tex_SimpleGrid.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/UV/UV_CustomPanner.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/UV/UV_ObjectScalable.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/UV/UV_SetupGrid.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalLight.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_BasicGrid_M.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_BasicGrid_N.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_DotGrid_M.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_DotGrid_N.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_ModernGrid_M.uasset
+[2021.02.02-16.15.36:770][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_ModernGrid_N.uasset
+[2021.02.02-16.15.36:771][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_StoneGrid_M.uasset
+[2021.02.02-16.15.36:771][320]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_StoneGrid_N.uasset
+[2021.02.02-16.15.36:771][320]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_BigGrid.uasset
+[2021.02.02-16.15.36:771][320]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_Default.uasset
+[2021.02.02-16.15.36:771][320]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_HoloB.uasset
+[2021.02.02-16.15.36:771][320]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_MetalCyanA.uasset
+[2021.02.02-16.15.36:771][320]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_RedB.uasset
+[2021.02.02-16.15.36:771][320]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_Redc.uasset
+[2021.02.02-16.15.36:771][320]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_Rocky.uasset
+[2021.02.02-16.15.36:771][320]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/Utility/Misc/PhysMat_Metal.uasset
+[2021.02.02-16.15.36:771][320]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/Utility/Misc/PhysMat_Plastic.uasset
+[2021.02.02-16.15.37:818][430]CustomMapToolsLog: Adding to paklist Blueprints/GrapplingHookAttach.uasset
+[2021.02.02-16.15.37:818][430]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/BPFL_PavlovTemplate.uasset
+[2021.02.02-16.15.37:818][430]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/BPI_MatchRounds.uasset
+[2021.02.02-16.15.37:818][430]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/Pavlov_GameLogic_Example.uasset
+[2021.02.02-16.15.37:818][430]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/Proxies/BP_HandProxyExample.uasset
+[2021.02.02-16.15.37:818][430]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/Proxies/BP_PlayerProxyExample.uasset
+[2021.02.02-16.15.37:818][430]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/Proxies/CMP_GlobalInfoExample.uasset
+[2021.02.02-16.15.37:818][430]CustomMapToolsLog: Adding to paklist Blueprints/Pavlov/Proxies/CMP_PlayerInfoExample.uasset
+[2021.02.02-16.15.37:818][430]CustomMapToolsLog: Adding to paklist CustomItemTableExample.uasset
+[2021.02.02-16.15.37:818][430]CustomMapToolsLog: Adding to paklist definition.uasset
+[2021.02.02-16.15.37:818][430]CustomMapToolsLog: Adding to paklist GrapplingHook.uasset
+[2021.02.02-16.15.37:818][430]CustomMapToolsLog: Adding to paklist HighresScreenshot00000.uasset
+[2021.02.02-16.15.37:818][430]CustomMapToolsLog: Adding to paklist Map.umap
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist Map_BuiltData.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Glowing_MultiColor.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Holographic.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Modern.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Base/M_SuperGrid_SingleColor.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/Basic/BreakSet.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/Basic/MakeSet.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/Basic/Roughness.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/Texture/Dye_MultiColor.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/Texture/Dye_SingleColor.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/Texture/Tex_SimpleGrid.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/UV/UV_CustomPanner.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/UV/UV_ObjectScalable.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Functions/UV/UV_SetupGrid.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalLight.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_BasicGrid_M.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_BasicGrid_N.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_DotGrid_M.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_DotGrid_N.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_ModernGrid_M.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_ModernGrid_N.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_StoneGrid_M.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/StarterPack/Source/Textures/T_StoneGrid_N.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_BigGrid.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_Default.uasset
+[2021.02.02-16.15.37:819][430]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_HoloB.uasset
+[2021.02.02-16.15.37:820][430]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_MetalCyanA.uasset
+[2021.02.02-16.15.37:820][430]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_RedB.uasset
+[2021.02.02-16.15.37:820][430]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_Redc.uasset
+[2021.02.02-16.15.37:820][430]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/MaterialInstances/M_Tut_Rocky.uasset
+[2021.02.02-16.15.37:820][430]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/Utility/Misc/PhysMat_Metal.uasset
+[2021.02.02-16.15.37:820][430]CustomMapToolsLog: Adding to paklist SuperGrid/TutorialLevel/Utility/Misc/PhysMat_Plastic.uasset
+[2021.02.02-16.15.38:663][529]CustomMapToolsLog: Submiting content to APP: 555160  Item: 2381960858
+[2021.02.02-16.15.46:300][436]CustomMapToolsLog: Content submision succeeded
+[2021.02.02-16.16.17:709][580]LogSlate: Window 'Pavlov Workshop' being destroyed
+[2021.02.02-16.16.17:715][580]LogSlate: Window 'Pavlov Workshop' being destroyed
+[2021.02.02-16.16.18:380][642]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.02-16.16.18:424][642]LogSlate: Window 'Pavlov - Unreal Editor' being destroyed
+[2021.02.02-16.16.18:425][642]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.02.02-16.16.18:682][643]Cmd: QUIT_EDITOR
+[2021.02.02-16.16.18:887][643]LogExit: Preparing to exit.
+[2021.02.02-16.16.19:665][643]LogExit: Editor shut down
+[2021.02.02-16.16.19:665][643]LogExit: Transaction tracking system shut down
+[2021.02.02-16.16.19:924][643]LogExit: Object subsystem successfully closed.
+[2021.02.02-16.16.19:940][643]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.02.02-16.16.19:943][643]LogD3D11RHI: Shutdown
+[2021.02.02-16.16.19:943][643]LogD3D11RHI: CleanupD3DDevice
+[2021.02.02-16.16.19:945][643]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.02.02-16.16.19:952][643]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (654)
+[2021.02.02-16.16.19:953][643]LogModuleManager: Shutting down and abandoning module Voice (652)
+[2021.02.02-16.16.19:953][643]LogModuleManager: Shutting down and abandoning module BlueprintGraph (650)
+[2021.02.02-16.16.19:953][643]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (648)
+[2021.02.02-16.16.19:953][643]LogModuleManager: Shutting down and abandoning module SceneOutliner (646)
+[2021.02.02-16.16.19:953][643]LogModuleManager: Shutting down and abandoning module AddContentDialog (644)
+[2021.02.02-16.16.19:953][643]LogModuleManager: Shutting down and abandoning module WidgetCarousel (643)
+[2021.02.02-16.16.19:953][643]LogModuleManager: Shutting down and abandoning module EditorWidgets (640)
+[2021.02.02-16.16.19:953][643]LogModuleManager: Shutting down and abandoning module CollectionManager (638)
+[2021.02.02-16.16.19:953][643]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (636)
+[2021.02.02-16.16.19:953][643]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (634)
+[2021.02.02-16.16.19:953][643]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2021.02.02-16.16.19:953][643]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2021.02.02-16.16.19:953][643]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module CustomMapTools (608)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module SteamAudioEditor (606)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (562)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (560)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module CharacterAI (558)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module SmartSnapping (556)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module SessionServices (554)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module ViewportSnapping (552)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module ViewportInteraction (550)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module ClothPainter (548)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (547)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module LogVisualizer (544)
+[2021.02.02-16.16.19:954][643]LogModuleManager: Shutting down and abandoning module IntroTutorials (542)
+[2021.02.02-16.16.19:955][643]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (541)
+[2021.02.02-16.16.19:955][643]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (538)
+[2021.02.02-16.16.19:955][643]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (536)
+[2021.02.02-16.16.19:955][643]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (534)
+[2021.02.02-16.16.19:955][643]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (532)
+[2021.02.02-16.16.19:955][643]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (531)
+[2021.02.02-16.16.21:877][643]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (528)
+[2021.02.02-16.16.21:877][643]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (526)
+[2021.02.02-16.16.21:877][643]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (524)
+[2021.02.02-16.16.21:877][643]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (522)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (520)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module InputBindingEditor (518)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module MergeActors (516)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (514)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module LocalizationService (513)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module HardwareTargeting (510)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (508)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module UndoHistory (506)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module XmlParser (504)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module Blutility (502)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (500)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (499)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (496)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module SettingsEditor (494)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module ProjectLauncher (492)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module SessionFrontend (490)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module ProfilerClient (488)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module DeviceManager (486)
+[2021.02.02-16.16.21:878][643]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (485)
+[2021.02.02-16.16.21:933][643]LogModuleManager: Shutting down and abandoning module AutomationController (482)
+[2021.02.02-16.16.21:933][643]LogModuleManager: Shutting down and abandoning module AutomationWindow (480)
+[2021.02.02-16.16.21:933][643]LogModuleManager: Shutting down and abandoning module Layers (478)
+[2021.02.02-16.16.21:933][643]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (476)
+[2021.02.02-16.16.21:933][643]LogModuleManager: Shutting down and abandoning module DetailCustomizations (474)
+[2021.02.02-16.16.21:933][643]LogModuleManager: Shutting down and abandoning module PackagesDialog (472)
+[2021.02.02-16.16.21:933][643]LogModuleManager: Shutting down and abandoning module Persona (470)
+[2021.02.02-16.16.21:933][643]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (469)
+[2021.02.02-16.16.21:933][643]LogModuleManager: Shutting down and abandoning module AnimGraph (467)
+[2021.02.02-16.16.21:933][643]LogModuleManager: Shutting down and abandoning module Kismet (464)
+[2021.02.02-16.16.21:938][643]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.02.02-16.16.24:474][643]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.537 s
+[2021.02.02-16.16.24:474][643]LogOutputDevice: Error: === Handled ensure: ===
+[2021.02.02-16.16.24:474][643]LogOutputDevice: Error: 
+[2021.02.02-16.16.24:474][643]LogOutputDevice: Error: Ensure condition failed: PinHelpers::NumPinsInMemory == 0 || PinHelpers::NumPinsInMemory == 1 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 1302]
+[2021.02.02-16.16.24:474][643]LogOutputDevice: Error: 
+[2021.02.02-16.16.24:474][643]LogOutputDevice: Error: Stack: 
+[2021.02.02-16.16.24:475][643]LogOutputDevice: Error: [Callstack] 0x00007ffd16cfee54 UE4Editor-Engine.dll!UnknownFunction []
+[2021.02.02-16.16.24:475][643]LogOutputDevice: Error: [Callstack] 0x00007ffd2aa24233 UE4Editor-Core.dll!UnknownFunction []
+[2021.02.02-16.16.24:475][643]LogOutputDevice: Error: [Callstack] 0x00007ff74dfb4fb6 UE4Editor.exe!UnknownFunction []
+[2021.02.02-16.16.24:475][643]LogOutputDevice: Error: [Callstack] 0x00007ff74dfb59a1 UE4Editor.exe!UnknownFunction []
+[2021.02.02-16.16.24:475][643]LogOutputDevice: Error: [Callstack] 0x00007ff74dfb59ea UE4Editor.exe!UnknownFunction []
+[2021.02.02-16.16.24:475][643]LogOutputDevice: Error: [Callstack] 0x00007ff74dfc48da UE4Editor.exe!UnknownFunction []
+[2021.02.02-16.16.24:475][643]LogOutputDevice: Error: [Callstack] 0x00007ff74dfc659a UE4Editor.exe!UnknownFunction []
+[2021.02.02-16.16.24:475][643]LogOutputDevice: Error: [Callstack] 0x00007ffde8137c24 KERNEL32.DLL!UnknownFunction []
+[2021.02.02-16.16.24:475][643]LogOutputDevice: Error: [Callstack] 0x00007ffde906d4d1 ntdll.dll!UnknownFunction []
+[2021.02.02-16.16.24:475][643]LogOutputDevice: Error: 
+[2021.02.02-16.16.24:481][643]LogStats:                SubmitErrorReport -  0.000 s

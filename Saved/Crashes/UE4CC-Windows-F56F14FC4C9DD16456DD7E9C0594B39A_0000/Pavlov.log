@@ -1,0 +1,957 @@
+﻿Log file open, 02/02/21 20:18:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pavlov
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.278577
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamAudio
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogPluginManager: Mounting plugin CustomMapTools
+LogPluginManager: Mounting plugin JsonUtils
+LogStreaming: Display: Took  0.123s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Ernest326 -epicuserid=4b897ee6fe53453d8e65312b20998d2c -epiclocale=en
+LogInit: Base Directory: F:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.CustomDepth:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:2]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:2]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.Streaming.MaxTempMemoryAllowed:512]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.ParallelTranslucency:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.Streaming.UseNewMetrics:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.TonemapperFilm:0]]
+[2021.02.02-20.18.28:905][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:1]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:1]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-20.18.28:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-20.18.28:906][  0]LogConfig: Setting CVar [[net.MaxRepArraySize:2048]]
+[2021.02.02-20.18.28:906][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-20.18.28:912][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2021.02.02-20.18.28:912][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2021.02.02-20.18.28:913][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.02-20.18.28:913][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.02-20.18.28:913][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.02-20.18.28:913][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.02-20.18.28:931][  0]LogHAL: Display: Platform has ~ 64 GB [68640907264 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.02-20.18.28:931][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2021.02.02-20.18.28:931][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.02-20.18.28:931][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:931][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.02-20.18.28:931][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.02-20.18.28:931][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:931][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2021.02.02-20.18.28:932][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.02-20.18.28:932][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.02-20.18.28:933][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.02-20.18.28:933][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Projects/GrapplingHook/Saved/Config/Windows/Engine.ini]
+[2021.02.02-20.18.28:933][  0]LogInit: Computer: DESKTOP-IF8K8UI
+[2021.02.02-20.18.28:933][  0]LogInit: User: ErnestWarzuchowski
+[2021.02.02-20.18.28:933][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.02.02-20.18.28:933][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.02-20.18.28:933][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2021.02.02-20.18.28:934][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.02-20.18.28:934][  0]LogMemory: Process Physical Memory: 110.18 MB used, 110.18 MB peak
+[2021.02.02-20.18.28:934][  0]LogMemory: Process Virtual Memory: 96.30 MB used, 96.30 MB peak
+[2021.02.02-20.18.28:934][  0]LogMemory: Physical Memory: 16791.54 MB used,  48669.53 MB free, 65461.07 MB total
+[2021.02.02-20.18.28:934][  0]LogMemory: Virtual Memory: 4662.96 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2021.02.02-20.18.28:971][  0]LogInit: Using OS detected language (en-US).
+[2021.02.02-20.18.28:971][  0]LogInit: Using OS detected locale (ga-IE).
+[2021.02.02-20.18.28:971][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.02.02-20.18.29:341][  0]LogStreaming: Display: Took  0.370s to InitEngineTextLocalization.
+[2021.02.02-20.18.29:341][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.02-20.18.29:391][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.02-20.18.29:392][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.02-20.18.29:617][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.02-20.18.29:702][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.02.02-20.18.29:702][  0]LogD3D11RHI:       8088/0/32730 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.02.02-20.18.29:704][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.02-20.18.29:704][  0]LogD3D11RHI:       0/0/32730 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.02-20.18.29:704][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.02-20.18.29:711][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.02-20.18.29:711][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.02-20.18.29:711][  0]LogWindows: EnumDisplayDevices:
+[2021.02.02-20.18.29:711][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.02.02-20.18.29:712][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2021.02.02-20.18.29:712][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.02.02-20.18.29:712][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.02.02-20.18.29:713][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.02.02-20.18.29:713][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.02.02-20.18.29:713][  0]LogD3D11RHI:   Driver Version: 461.09 (internal:27.21.14.6109, unified:461.09)
+[2021.02.02-20.18.29:713][  0]LogD3D11RHI:      Driver Date: 12-31-2020
+[2021.02.02-20.18.29:713][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.02.02-20.18.29:777][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.02-20.18.29:811][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.02-20.18.30:196][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.02.02-20.18.30:210][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.02.02-20.18.30:224][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.02.02-20.18.30:239][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.02.02-20.18.30:254][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.02.02-20.18.30:268][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.02.02-20.18.30:283][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.02.02-20.18.30:296][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.02.02-20.18.30:303][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.02.02-20.18.30:378][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.02.02-20.18.30:438][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.02.02-20.18.30:438][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.02.02-20.18.30:463][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.02.02-20.18.30:463][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.02.02-20.18.30:477][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.02.02-20.18.30:490][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.02.02-20.18.30:502][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.02.02-20.18.30:516][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.02.02-20.18.30:567][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.02.02-20.18.30:567][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.02.02-20.18.30:567][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.02-20.18.30:618][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (E:/Unreal Projects/GrapplingHook/Intermediate/Shaders/WorkingDirectory/23796/).
+[2021.02.02-20.18.30:618][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ernest Warzuchowski/AppData/Local/Temp/UnrealShaderWorkingDir/E75883094768CC3294396EB60C40BFCE/'.
+[2021.02.02-20.18.30:619][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.02.02-20.18.30:619][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.02-20.18.30:619][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.02-20.18.31:137][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.02-20.18.31:190][  0]LogDerivedDataCache: Loaded boot cache 0.05s 89MB C:/Users/Ernest Warzuchowski/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2021.02.02-20.18.31:190][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ernest Warzuchowski/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2021.02.02-20.18.31:190][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Unreal Projects/GrapplingHook/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.02-20.18.31:190][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.02-20.18.31:190][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Unreal Projects/GrapplingHook/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.02-20.18.31:190][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.02-20.18.31:204][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.02-20.18.31:204][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.02-20.18.31:204][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.02-20.18.31:216][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ernest Warzuchowski/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.02-20.18.31:216][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.02-20.18.31:216][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.02-20.18.31:245][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.02.02-20.18.31:246][  0]LogSlate: Using FreeType 2.6.0
+[2021.02.02-20.18.31:247][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.02-20.18.31:329][  0]LogAssetRegistry: FAssetRegistry took 0.0324 seconds to start up
+[2021.02.02-20.18.31:671][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.02-20.18.31:818][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.02.02-20.18.31:822][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.02.02-20.18.31:822][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.02-20.18.31:822][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.02-20.18.31:822][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.02.02-20.18.31:836][  0]LogNetVersion: Pavlov 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1000105296)
+[2021.02.02-20.18.32:427][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 2 prioritized culture(s) in 0.165228 seconds
+[2021.02.02-20.18.32:435][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2021.02.02-20.18.32:435][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2021.02.02-20.18.32:436][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.02-20.18.33:092][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2021.02.02-20.18.33:092][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-20.18.33:092][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-20.18.33:126][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2021.02.02-20.18.33:126][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-20.18.33:126][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-20.18.33:129][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2021.02.02-20.18.33:130][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-20.18.33:130][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-20.18.33:133][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2021.02.02-20.18.33:133][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-20.18.33:133][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-20.18.33:137][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2021.02.02-20.18.33:137][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-20.18.33:137][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-20.18.33:140][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2021.02.02-20.18.33:140][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-20.18.33:140][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-20.18.33:165][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2021.02.02-20.18.33:166][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-20.18.33:166][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-20.18.33:169][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2021.02.02-20.18.33:169][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-20.18.33:169][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-20.18.33:172][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2021.02.02-20.18.33:173][  0]LogMaterial: Warning: F:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-20.18.33:173][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2021.02.02-20.18.33:239][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.02-20.18.33:253][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.02-20.18.33:899][  0]LogSteamAudio: FSteamAudioModule Startup
+[2021.02.02-20.18.33:899][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll
+[2021.02.02-20.18.33:901][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll.
+[2021.02.02-20.18.33:902][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll
+[2021.02.02-20.18.33:903][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll.
+[2021.02.02-20.18.33:903][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll
+[2021.02.02-20.18.33:904][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll.
+[2021.02.02-20.18.33:951][  0]SourceControl: Source control is disabled
+[2021.02.02-20.18.33:951][  0]SourceControl: Source control is disabled
+[2021.02.02-20.18.33:953][  0]SourceControl: Source control is disabled
+[2021.02.02-20.18.33:954][  0]SourceControl: Source control is disabled
+[2021.02.02-20.18.34:132][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.02-20.18.34:255][  0]LogOcInput: OculusInput pre-init called
+[2021.02.02-20.18.34:273][  0]LogPython: Python Scripts search path: E:/Unreal Projects/GrapplingHook/Content/Scripts
+[2021.02.02-20.18.34:273][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2021.02.02-20.18.34:273][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2021.02.02-20.18.34:497][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2021.02.02-20.18.34:498][  0]LogPython: 
+
+[2021.02.02-20.18.34:498][  0]LogPython: F:\Program Files\Epic Games\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2021.02.02-20.18.34:498][  0]LogPython: 
+
+[2021.02.02-20.18.34:564][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2021.02.02-20.18.34:564][  0]LogPython: 
+
+[2021.02.02-20.18.34:565][  0]LogPython: ue_site Python module successfully imported
+[2021.02.02-20.18.34:705][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2021.02.02-20.18.34:705][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2021.02.02-20.18.34:705][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2021.02.02-20.18.34:705][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2021.02.02-20.18.34:705][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2021.02.02-20.18.34:705][  0]LogClass: Display: 5 Uninitialized script stuct members found
+[2021.02.02-20.18.34:705][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2021.02.02-20.18.34:705][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2021.02.02-20.18.34:705][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2021.02.02-20.18.34:705][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2021.02.02-20.18.34:705][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2021.02.02-20.18.34:707][  0]LogEngine: Initializing Engine...
+[2021.02.02-20.18.34:708][  0]LogHMD: Oculus plugin initialized. Version: 4.21.2-4753647+++UE4+Release-4.21, OVRPlugin: 1.28.0
+[2021.02.02-20.18.34:710][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.02.02-20.18.34:710][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.02.02-20.18.34:710][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.02.02-20.18.34:710][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.02.02-20.18.34:951][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.02-20.18.34:963][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.02-20.18.35:008][  0]LogInit: XAudio2 using 'Headphones (DR-BTN200 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.02.02-20.18.35:029][  0]LogInit: FAudioDevice initialized.
+[2021.02.02-20.18.35:029][  0]LogNetVersion: Set ProjectVersion to 1.1.2. Version Checksum will be recalculated on next use.
+[2021.02.02-20.18.35:127][  0]LogDerivedDataCache: Saved boot cache 0.10s 89MB C:/Users/Ernest Warzuchowski/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2021.02.02-20.18.35:136][  0]LogInit: Texture streaming: Enabled
+[2021.02.02-20.18.35:151][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.02-20.18.35:169][  0]LogInit: Transaction tracking system initialized
+[2021.02.02-20.18.35:187][  0]BlueprintLog: New page: Editor Load
+[2021.02.02-20.18.35:256][  0]LocalizationService: Localization service is disabled
+[2021.02.02-20.18.35:839][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.02.02-20.18.35:839][  0]LogCook: Display: Mobile HDR setting 0
+[2021.02.02-20.18.35:839][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.02.02-20.18.35:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.02.02-20.18.35:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.02.02-20.18.35:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.02.02-20.18.35:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.02.02-20.18.35:936][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/GrapplingHook/Content/' took 0.02s
+[2021.02.02-20.18.35:936][  0]CustomMapToolsLog: Initializing Pavlov's workshop editor plugin
+[2021.02.02-20.18.36:023][  0]CustomMapToolsLog: Visiting E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858
+[2021.02.02-20.18.36:023][  0]CustomMapToolsLog: Loaded UGC ID:2381960858
+[2021.02.02-20.18.36:023][  0]CustomMapToolsLog: Visiting E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858
+[2021.02.02-20.18.36:084][  0]SourceControl: Source control is disabled
+[2021.02.02-20.18.36:085][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.02-20.18.36:085][  0]LightingResults: New page: Lighting Build
+[2021.02.02-20.18.36:088][  0]MapCheck: New page: Map Check
+[2021.02.02-20.18.36:088][  0]LightingResults: New page: Lighting Build
+[2021.02.02-20.18.36:215][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.02.02-20.18.36:220][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.02-20.18.36:240][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.02-20.18.36:240][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2021.02.02-20.18.36:240][  0]LogFileHelpers: Loading map 'Template_Default' took 0.156
+[2021.02.02-20.18.37:490][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.02.02-20.18.37:550][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-20.18.37:562][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-20.18.37:573][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-20.18.37:582][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-20.18.37:589][  0]LogCollectionManager: Loaded 0 collections in 0.001067 seconds
+[2021.02.02-20.18.37:629][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/GrapplingHook/Saved/Collections/' took 0.01s
+[2021.02.02-20.18.37:629][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/GrapplingHook/Content/Developers/ErnestWarzuchowski/Collections/' took 0.01s
+[2021.02.02-20.18.37:629][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/GrapplingHook/Content/Collections/' took 0.01s
+[2021.02.02-20.18.37:629][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.02.02-20.18.37:642][  0]LogContentBrowser: Native class hierarchy populated in 0.0129 seconds. Added 2723 classes and 646 folders.
+[2021.02.02-20.18.37:652][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.02.02-20.18.37:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:659][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Pavlov
+[2021.02.02-20.18.37:659][  0]LogTemp: CWD: F:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2021.02.02-20.18.37:659][  0]LogTemp: Initial Dir: F:\Program Files\Epic Games\UE_4.21
+[2021.02.02-20.18.37:659][  0]LogTemp: Env CWD: F:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2021.02.02-20.18.37:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:663][  0]LogTemp: BranchPath = DESKTOP-IF8K8UI/F/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-IF8K8UI/F/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2021.02.02-20.18.37:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:666][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:672][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.02.02-20.18.37:701][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.02-20.18.37:710][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Ernest Warzuchowski\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2021.02.02-20.18.37:710][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2021.02.02-20.18.37:793][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.02-20.18.37:795][  0]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.02-20.18.37:802][  0]LogSlate: Took 0.000488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.02-20.18.37:906][  0]LogRenderer: Reallocating scene render targets to support 1212x464 Format 9 NumSamples 4 (Frame:1).
+[2021.02.02-20.18.38:029][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.02.02-20.18.38:029][  0]LogLoad: (Engine Initialization) Total time: 10.77 seconds
+[2021.02.02-20.18.38:029][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.02-20.18.38:042][  0]LogOcInput: OculusInput is initialized
+[2021.02.02-20.18.38:208][  0]LogContentStreaming: Texture pool size now 2500 MB
+[2021.02.02-20.18.38:213][  0]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.02-20.18.38:280][  0]LogRenderer: Reallocating scene render targets to support 1212x476 Format 9 NumSamples 4 (Frame:2).
+[2021.02.02-20.18.38:280][  0]LogSlate: Took 0.000435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.02-20.18.38:376][  2]LogAssetRegistry: Asset discovery search completed in 7.0685 seconds
+[2021.02.02-20.18.38:379][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2021.02.02-20.18.38:379][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000129 seconds (updated 0 objects)
+[2021.02.02-20.18.38:418][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2021.02.02-20.18.41:034][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.18.45:727][810]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2021.02.02-20.18.45:728][810]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2021.02.02-20.18.45:728][810]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body
+[2021.02.02-20.18.45:728][810]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2021.02.02-20.18.45:728][810]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2021.02.02-20.18.45:728][810]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo
+[2021.02.02-20.18.45:730][810]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2021.02.02-20.18.45:730][810]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2021.02.02-20.18.45:731][810]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2021.02.02-20.18.45:731][810]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading E:/Unreal Projects/GrapplingHook/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2021.02.02-20.18.46:190][810]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2021.02.02-20.18.46:190][810]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body.M_UE4Man_Body Referenced by SK_Mannequin
+[2021.02.02-20.18.46:190][810]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading NULL.
+[2021.02.02-20.18.46:190][810]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2021.02.02-20.18.46:190][810]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo Referenced by SK_Mannequin
+[2021.02.02-20.18.46:190][810]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading NULL.
+[2021.02.02-20.18.46:460][810]LogAIModule: Creating AISystem for world Map
+[2021.02.02-20.18.46:507][810]LogAssetEditorManager: Opening Asset editor for World /Game/CustomMaps/UGC2381960858/Map.Map
+[2021.02.02-20.18.46:534][810]Cmd: MAP LOAD FILE="E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.02-20.18.46:534][810]LightingResults: New page: Lighting Build
+[2021.02.02-20.18.46:535][810]LoadErrors: New page: Loading map: Map.umap
+[2021.02.02-20.18.46:536][810]MapCheck: New page: Map Check
+[2021.02.02-20.18.46:536][810]LightingResults: New page: Lighting Build
+[2021.02.02-20.18.46:703][810]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.02-20.18.46:752][810]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.02-20.18.46:752][810]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2021.02.02-20.18.46:752][810]LogFileHelpers: Loading map 'Map' took 0.220
+[2021.02.02-20.18.50:472][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.18.50:550][235]LogRenderer: Reallocating scene render targets to support 1212x480 Format 9 NumSamples 4 (Frame:445).
+[2021.02.02-20.18.50:601][236]LogRenderer: Reallocating scene render targets to support 1212x500 Format 9 NumSamples 4 (Frame:447).
+[2021.02.02-20.18.50:667][237]LogRenderer: Reallocating scene render targets to support 1212x532 Format 9 NumSamples 4 (Frame:449).
+[2021.02.02-20.18.50:717][238]LogRenderer: Reallocating scene render targets to support 1212x572 Format 9 NumSamples 4 (Frame:451).
+[2021.02.02-20.18.50:765][239]LogRenderer: Reallocating scene render targets to support 1212x612 Format 9 NumSamples 4 (Frame:453).
+[2021.02.02-20.18.50:814][240]LogRenderer: Reallocating scene render targets to support 1212x640 Format 9 NumSamples 4 (Frame:455).
+[2021.02.02-20.18.50:859][241]LogRenderer: Reallocating scene render targets to support 1212x652 Format 9 NumSamples 4 (Frame:457).
+[2021.02.02-20.18.53:392][521]LogEditorViewport: Clicking on Actor (LMB): GrapplingHook_C (GrapplingHook2)
+[2021.02.02-20.18.54:070][577]LogEditorViewport: Clicking on Actor (CTRL LMB): GrapplingHook_C (GrapplingHook)
+[2021.02.02-20.18.54:686][645]Cmd: DELETE
+[2021.02.02-20.18.54:686][645]Cmd: ACTOR DELETE
+[2021.02.02-20.18.54:709][645]LogEditorActor: Deleted Actor: GrapplingHook_C
+[2021.02.02-20.18.54:710][645]LogEditorActor: Deleted Actor: GrapplingHook_C
+[2021.02.02-20.18.54:730][645]LogEditorActor: Deleted 2 Actors (0.043 secs)
+[2021.02.02-20.19.48:773][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.19.55:466][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2021.02.02-20.19.58:232][388]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.02.02-20.19.58:666][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.20.05:210][837]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2381960858/GrapplingHook.GrapplingHook
+[2021.02.02-20.20.05:731][837]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2021.02.02-20.20.06:655][837]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.02-20.20.06:821][838]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.02-20.20.50:034][599]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-20.22.08:235][871]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-20.22.16:013][731]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-20.23.22:234][374]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.02.02-20.23.26:341][774]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection
+[2021.02.02-20.23.26:824][774]LogRenderer: Reallocating scene render targets to support 1212x676 Format 9 NumSamples 4 (Frame:1).
+[2021.02.02-20.23.41:539][ 37]LogSlate: Window 'SpawnProtection*' being destroyed
+[2021.02.02-20.25.54:889][405]LogLinker: Can't find file '/Game/CustomMaps/UGC2379899221/SpawnProtection'
+[2021.02.02-20.25.54:889][405]LogLinker: Can't find file '/Game/CustomMaps/UGC2379899221/SpawnProtection'
+[2021.02.02-20.26.01:454][ 93]BlueprintLog: New page: Compile SpawnProtection
+[2021.02.02-20.26.01:529][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] Could not find a variable named "PlayerState" in 'SpawnProtection_C'.
+Make sure 'SpawnProtection_C' has been compiled for  Get PlayerState
+[2021.02.02-20.26.01:529][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] Could not find a variable named "TriggerRight" in 'SpawnProtection_C'.
+Make sure 'SpawnProtection_C' has been compiled for  Set TriggerRight
+[2021.02.02-20.26.01:530][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] Could not find a variable named "TriggerRight" in 'SpawnProtection_C'.
+Make sure 'SpawnProtection_C' has been compiled for  Set TriggerRight
+[2021.02.02-20.26.01:530][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] Could not find a variable named "GripRight" in 'SpawnProtection_C'.
+Make sure 'SpawnProtection_C' has been compiled for  Set GripRight
+[2021.02.02-20.26.01:530][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] Could not find a variable named "GripRight" in 'SpawnProtection_C'.
+Make sure 'SpawnProtection_C' has been compiled for  Set GripRight
+[2021.02.02-20.26.01:530][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] Could not find a variable named "PlayerState" in 'SpawnProtection_C'.
+Make sure 'SpawnProtection_C' has been compiled for  Get PlayerState
+[2021.02.02-20.26.01:530][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] Could not find a variable named "TriggerLeft" in 'SpawnProtection_C'.
+Make sure 'SpawnProtection_C' has been compiled for  Set TriggerLeft
+[2021.02.02-20.26.01:530][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] Could not find a variable named "TriggerLeft" in 'SpawnProtection_C'.
+Make sure 'SpawnProtection_C' has been compiled for  Set TriggerLeft
+[2021.02.02-20.26.01:530][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] Could not find a variable named "GripLeft" in 'SpawnProtection_C'.
+Make sure 'SpawnProtection_C' has been compiled for  Set GripLeft
+[2021.02.02-20.26.01:530][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] Could not find a variable named "GripLeft" in 'SpawnProtection_C'.
+Make sure 'SpawnProtection_C' has been compiled for  Set GripLeft
+[2021.02.02-20.26.01:530][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] Could not find a variable named "PlayerState" in 'SpawnProtection_C'.
+Make sure 'SpawnProtection_C' has been compiled for  Get PlayerState
+[2021.02.02-20.26.01:531][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] Could not find a variable named "PlayerState" in 'SpawnProtection_C'.
+Make sure 'SpawnProtection_C' has been compiled for  Get PlayerState
+[2021.02.02-20.26.01:531][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] Could not find a variable named "PlayerState" in 'SpawnProtection_C'.
+Make sure 'SpawnProtection_C' has been compiled for  Get PlayerState
+[2021.02.02-20.26.01:535][ 93]LogBlueprint: Error: [Compiler SpawnProtection] The property associated with  Player State  could not be found in '/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection_C'
+[2021.02.02-20.26.01:535][ 93]LogBlueprint: Error: [Compiler SpawnProtection] The property associated with  Player State  could not be found in '/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection_C'
+[2021.02.02-20.26.01:535][ 93]LogBlueprint: Error: [Compiler SpawnProtection] The property associated with  Player State  could not be found in '/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection_C'
+[2021.02.02-20.26.01:535][ 93]LogBlueprint: Error: [Compiler SpawnProtection] The property associated with  Grip Left  could not be found in '/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection_C'
+[2021.02.02-20.26.01:535][ 93]LogBlueprint: Error: [Compiler SpawnProtection] The property associated with  Grip Left  could not be found in '/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection_C'
+[2021.02.02-20.26.01:535][ 93]LogBlueprint: Error: [Compiler SpawnProtection] The property associated with  Trigger Left  could not be found in '/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection_C'
+[2021.02.02-20.26.01:535][ 93]LogBlueprint: Error: [Compiler SpawnProtection] The property associated with  Trigger Left  could not be found in '/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection_C'
+[2021.02.02-20.26.01:535][ 93]LogBlueprint: Error: [Compiler SpawnProtection] The property associated with  Player State  could not be found in '/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection_C'
+[2021.02.02-20.26.01:535][ 93]LogBlueprint: Error: [Compiler SpawnProtection] The property associated with  Grip Right  could not be found in '/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection_C'
+[2021.02.02-20.26.01:535][ 93]LogBlueprint: Error: [Compiler SpawnProtection] The property associated with  Grip Right  could not be found in '/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection_C'
+[2021.02.02-20.26.01:535][ 93]LogBlueprint: Error: [Compiler SpawnProtection] The property associated with  Trigger Right  could not be found in '/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection_C'
+[2021.02.02-20.26.01:535][ 93]LogBlueprint: Error: [Compiler SpawnProtection] The property associated with  Trigger Right  could not be found in '/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection_C'
+[2021.02.02-20.26.01:535][ 93]LogBlueprint: Error: [Compiler SpawnProtection] The property associated with  Player State  could not be found in '/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection_C'
+[2021.02.02-20.26.01:760][ 93]LogBlueprint: Warning: [Compiler SpawnProtection] [0454.50] Compile of SpawnProtection failed. 13 Fatal Issue(s) 13 Warning(s) [in 305 ms] (/Game/CustomMaps/UGC2381960858/SpawnProtection.SpawnProtection)
+[2021.02.02-20.26.13:805][292]BlueprintLog: New page: Compile SpawnProtection
+[2021.02.02-20.27.23:274][632]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2381960858/Blueprints/Pavlov/Pavlov_GameLogic_Example.Pavlov_GameLogic_Example
+[2021.02.02-20.27.31:919][981]LogLinker: Can't find file '/Game/CustomMaps/UGC2379899221/Blueprints/Pavlov/Pavlov_GameLogic_Example'
+[2021.02.02-20.27.31:919][981]LogLinker: Can't find file '/Game/CustomMaps/UGC2379899221/Blueprints/Pavlov/Pavlov_GameLogic_Example'
+[2021.02.02-20.28.01:372][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:372][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SKEL_SpawnProtection_C' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:372][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection_C' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:372][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection:EventGraph.K2Node_Event_4' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:372][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection:EventGraph.K2Node_Event_1' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:372][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection:EventGraph.K2Node_Event_2' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:372][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SKEL_SpawnProtection_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SKEL_SpawnProtection_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SKEL_SpawnProtection_C:GripLeft' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SKEL_SpawnProtection_C:TriggerLeft' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SKEL_SpawnProtection_C:GripRight' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SKEL_SpawnProtection_C:TriggerRight' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SKEL_SpawnProtection_C:PlayerState' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SKEL_SpawnProtection_C:DefaultSceneRoot' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SKEL_SpawnProtection_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection_C:GripLeft' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection_C:TriggerLeft' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection_C:GripRight' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection_C:TriggerRight' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection_C:PlayerState' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection_C:DefaultSceneRoot' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:373][409]LogMetaData: Removing '/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/UGC2381960858/SpawnProtection.PackageMetaData'
+[2021.02.02-20.28.01:504][409]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/SpawnProtectionE5A22DA8487E5018A9A771A56E3104EC.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.uasset'
+[2021.02.02-20.28.03:205][513]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection
+[2021.02.02-20.28.17:440][950]LogBlueprint: Warning: [Compiler SpawnProtection] Variable PlayerState is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2021.02.02-20.28.17:441][950]LogBlueprint: Warning: [Compiler SpawnProtection] [0590.18] Compile of SpawnProtection successful, but with 1 Warning(s) [in 1 ms] (/Game/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.SpawnProtection)
+[2021.02.02-20.28.21:293][129]BlueprintLog: New page: Compile SpawnProtection
+[2021.02.02-20.28.22:470][170]LogSlate: Window 'SpawnProtection*' being destroyed
+[2021.02.02-20.28.34:144][136]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.02-20.28.47:513][408]BlueprintLog: New page: Compile Pavlov_GameLogic_Example
+[2021.02.02-20.29.10:893][462]LogEditorTransaction: Undo Move Node
+[2021.02.02-20.29.48:663][890]BlueprintLog: New page: Compile Pavlov_GameLogic_Example
+[2021.02.02-20.29.51:050][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaps/UGC2381960858/Map" FILE="E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-20.29.51:844][ 38]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/MapBC160D2F414816A5A2BBDB9EBB5721EF.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Map.umap'
+[2021.02.02-20.29.51:883][ 38]LogFileHelpers: Saving map 'Map' took 0.833
+[2021.02.02-20.29.52:130][ 38]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/Pavlov_GameLogic_ExampleBB99846249C582767EF4F4BDCB8E468E.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Blueprints/Pavlov/Pavlov_GameLogic_Example.uasset'
+[2021.02.02-20.29.52:161][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaps/UGC2381960858/GrapplingHook" FILE="E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/GrapplingHook.uasset" SILENT=true
+[2021.02.02-20.29.52:258][ 38]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/GrapplingHook3ECEA14E47D4C5B2544E5B8AD6C44E45.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/GrapplingHook.uasset'
+[2021.02.02-20.29.52:340][ 38]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/SpawnProtectionF86088C24AE1080A29A504B60617F2F4.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Blueprints/SpawnProtection.uasset'
+[2021.02.02-20.30.03:695][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.30.09:899][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.30.11:971][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.30.22:824][198]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.02-20.30.31:927][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.30.46:651][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2021.02.02-20.30.47:147][380]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.02-20.30.48:399][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2021.02.02-20.30.55:549][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2021.02.02-20.30.56:649][191]Cmd: EDIT COPY
+[2021.02.02-20.30.56:802][203]Cmd: EDIT PASTE
+[2021.02.02-20.31.16:104][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.31.58:697][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.32.14:997][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.32.19:048][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.32.22:931][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.32.25:803][150]Cmd: TRANSACTION UNDO
+[2021.02.02-20.32.25:803][150]LogEditorTransaction: Undo Create Actors
+[2021.02.02-20.32.26:306][169]Cmd: TRANSACTION UNDO
+[2021.02.02-20.32.26:306][169]LogEditorTransaction: Undo Create Actors
+[2021.02.02-20.32.26:824][214]Cmd: TRANSACTION UNDO
+[2021.02.02-20.32.26:824][214]LogEditorTransaction: Undo Create Actors
+[2021.02.02-20.32.27:384][261]Cmd: TRANSACTION UNDO
+[2021.02.02-20.32.27:385][261]LogEditorTransaction: Undo Create Actors
+[2021.02.02-20.32.29:770][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.32.42:757][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.32.46:034][627]Cmd: TRANSACTION UNDO
+[2021.02.02-20.32.46:034][627]LogEditorTransaction: Undo Create Actors
+[2021.02.02-20.32.48:080][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.32.51:880][ 34]Cmd: TRANSACTION UNDO
+[2021.02.02-20.32.51:881][ 34]LogEditorTransaction: Undo Create Actors
+[2021.02.02-20.32.54:843][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.32.58:484][502]Cmd: TRANSACTION UNDO
+[2021.02.02-20.32.58:484][502]LogEditorTransaction: Undo Create Actors
+[2021.02.02-20.32.59:235][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.33.02:263][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.33.06:756][ 88]Cmd: TRANSACTION UNDO
+[2021.02.02-20.33.06:756][ 88]LogEditorTransaction: Undo Create Actors
+[2021.02.02-20.33.07:289][110]Cmd: TRANSACTION UNDO
+[2021.02.02-20.33.07:289][110]LogEditorTransaction: Undo Create Actors
+[2021.02.02-20.33.09:652][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.33.13:254][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.33.17:153][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.33.19:212][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.33.21:578][ 84]Cmd: TRANSACTION UNDO
+[2021.02.02-20.33.21:578][ 84]LogEditorTransaction: Undo Create Actors
+[2021.02.02-20.33.25:735][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.33.31:987][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.33.34:490][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.33.35:916][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.34.15:747][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.34.17:669][321]Cmd: TRANSACTION UNDO
+[2021.02.02-20.34.17:669][321]LogEditorTransaction: Undo Create Actors
+[2021.02.02-20.34.18:722][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.34.21:880][605]Cmd: TRANSACTION UNDO
+[2021.02.02-20.34.21:880][605]LogEditorTransaction: Undo Create Actors
+[2021.02.02-20.34.22:541][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.34.30:684][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.02-20.34.31:992][350]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.02-20.34.32:006][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaps/UGC2381960858/Map" FILE="E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-20.34.32:754][350]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/Map1E3C74EA45E2492EDBCE6DA4EAC0BF23.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Map.umap'
+[2021.02.02-20.34.32:793][350]LogFileHelpers: Saving map 'Map' took 0.788
+[2021.02.02-20.34.37:661][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.36.14:945][799]BlueprintLog: New page: Compile Pavlov_GameLogic_Example
+[2021.02.02-20.37.54:613][810]BlueprintLog: New page: Compile Pavlov_GameLogic_Example
+[2021.02.02-20.38.45:412][550]BlueprintLog: New page: Compile Pavlov_GameLogic_Example
+[2021.02.02-20.38.48:759][842]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.02-20.38.52:133][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaps/UGC2381960858/Map" FILE="E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-20.38.53:023][103]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/Map59BA43154FE9D58F8D5BD2BAF55F9203.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Map.umap'
+[2021.02.02-20.38.53:066][103]LogFileHelpers: Saving map 'Map' took 0.934
+[2021.02.02-20.38.53:337][103]LogSavePackage: Moving 'E:/Unreal Projects/GrapplingHook/Saved/Pavlov_GameLogic_Example5F02D9A040B25995052E69B237BF032D.tmp' to 'E:/Unreal Projects/GrapplingHook/Content/CustomMaps/UGC2381960858/Blueprints/Pavlov/Pavlov_GameLogic_Example.uasset'
+[2021.02.02-20.39.08:993][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.39.19:978][413]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-20.39.58:014][ 40]BlueprintLog: New page: Compile GrapplingHook
+[2021.02.02-20.40.04:670][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.02-20.40.10:266][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.02-20.40.11:385][125]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.02-20.40.15:066][413]Cmd: TRANSACTION UNDO
+[2021.02.02-20.40.15:066][413]LogEditorTransaction: Undo Move Actors
+[2021.02.02-20.40.15:069][413]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.02.02-20.40.15:749][413]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.681 s
+[2021.02.02-20.40.15:749][413]LogOutputDevice: Error: === Handled ensure: ===
+[2021.02.02-20.40.15:749][413]LogOutputDevice: Error: 
+[2021.02.02-20.40.15:749][413]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2021.02.02-20.40.15:749][413]LogOutputDevice: Error: 
+[2021.02.02-20.40.15:749][413]LogOutputDevice: Error: Stack: 
+[2021.02.02-20.40.15:749][413]LogOutputDevice: Error: [Callstack] 0x00007ffd317b85e8 UE4Editor-Engine.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd2fb8fe32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd2fbbacf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd2fba140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd2fc0b427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd2fc4f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd2fbe726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd2fba0b4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd2fb9a786 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd304a0b33 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd6134773e UE4Editor-MainFrame.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd61347b5e UE4Editor-MainFrame.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd46b0206f UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd46b44c8e UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd61357562 UE4Editor-MainFrame.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd613475e9 UE4Editor-MainFrame.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd46b469f9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd46b39a36 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd4e76daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd4e760de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd4e7701eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd4e75ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffde8cd5c1d USER32.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffde8cd5612 USER32.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffd4e771746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ff74dfa5546 UE4Editor.exe!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ff74dfb596c UE4Editor.exe!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ff74dfb59ea UE4Editor.exe!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ff74dfc48da UE4Editor.exe!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ff74dfc659a UE4Editor.exe!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffde8137c24 KERNEL32.DLL!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: [Callstack] 0x00007ffde906d4d1 ntdll.dll!UnknownFunction []
+[2021.02.02-20.40.15:750][413]LogOutputDevice: Error: 
+[2021.02.02-20.40.15:754][413]LogStats:                SubmitErrorReport -  0.000 s
